@@ -1,0 +1,50 @@
+{
+    "family" : [ 
+    {
+        "name": "Amir",
+        "age": 24
+    },
+    {
+        "name": "Aissa",
+        "age": 26
+    },
+    {
+        "name": "Faiza",
+        "age": 29
+    },
+    {
+        "name": "Halim",
+        "age": 32
+    },
+    {
+        "name": "Djamal",
+        "age": 36
+    },
+    {
+        "name": "Mom",
+        "age": 55
+    },
+    {
+        "name": "Dad",
+        "age": 60
+    }],
+
+
+    
+    "friends" : [ {
+        "name": "Osama",
+        "age": 24
+    },
+    {
+        "name": "Bilal",
+        "age": 24
+    },
+    {
+        "name": "Monsef",
+        "age": 24
+    },
+    {
+        "name": "Morad",
+        "age": 24
+    }]
+}

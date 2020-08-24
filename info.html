@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome to AJAX page one</h1>
+    <button class="back"><= back</button>
+    <button class="back">forward =></button>
+    <script>
+        let back = document.querySelector('.back')
+        back.addEventListener('click',
+        () => window.history.back())
+        let forward = document.querySelector('.back')
+        forward.addEventListener('click',
+        () => window.history.forward())
+    </script>
+</body>
+</html>
